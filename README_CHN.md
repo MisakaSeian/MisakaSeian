@@ -19,4 +19,4 @@ Altium Designer, Proteus...
 
 ### 社交
 
-QQ:1179739916
+![bilibili](https://github.com/MisakaSeian/pics_storage/blob/main/bilibili-id-FB7299.svg) ![QQ](https://github.com/MisakaSeian/pics_storage/raw/main/QQ-1179739916-00aaee.svg)
