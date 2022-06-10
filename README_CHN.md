@@ -13,8 +13,7 @@
 ### 软件
 
 ![AutoCAD](https://github.com/MisakaSeian/pics_storage/blob/langs/CAD.svg) ![CATIA](https://github.com/MisakaSeian/pics_storage/blob/langs/CATIA.svg)
-MATLAB, LabVIEW;
-NI Multisim, Modelsim;
+MATLAB, NI LabVIEW, NI Multisim, Modelsim;
 ![AD](https://github.com/MisakaSeian/pics_storage/blob/langs/AD.svg) Proteus...
 
 ### 社交
