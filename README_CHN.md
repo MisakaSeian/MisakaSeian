@@ -8,7 +8,7 @@
 
 ### 硬件
 
-![8051](https://github.com/MisakaSeian/pics_storage/raw/langs/8051.svg)  ![STM32](https://github.com/MisakaSeian/pics_storage/raw/langs/STM32.svg), ![DSP](https://github.com/MisakaSeian/pics_storage/raw/langs/DSP.svg)
+![8051](https://github.com/MisakaSeian/pics_storage/raw/langs/8051.svg)  ![STM32](https://github.com/MisakaSeian/pics_storage/raw/langs/STM32.svg)  ![DSP](https://github.com/MisakaSeian/pics_storage/raw/langs/DSP.svg)
 
 ### 软件
 
