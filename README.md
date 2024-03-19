@@ -14,4 +14,4 @@ MATLAB, NI LabVIEW, NI Multisim, Modelsim;
 
 ### social
 
-![bilibili](https://github.com/MisakaSeian/pics_storage/raw/main/bilibili-id-FB7299.svg) ![QQ](https://github.com/MisakaSeian/pics_storage/raw/main/QQ-1179739916-00aaee.svg)
+<a href ="https://space.bilibili.com/89642510">![bilibili](https://github.com/MisakaSeian/pics_storage/raw/main/bilibili-id-FB7299.svg)</a> ![QQ](https://github.com/MisakaSeian/pics_storage/raw/main/QQ-1179739916-00aaee.svg)
